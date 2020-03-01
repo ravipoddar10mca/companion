@@ -541,6 +541,6 @@ url=https://github.com/bitfocus/companion-module-newbluefx-titler.git
 [submodule "lib/module/digico-osc"]
 	path = lib/module/digico-osc
 	url = https://github.com/bitfocus/companion-module-digico-osc.git
-[submodule "lib/module/TestGraphics"]
-	path = lib/module/TestGraphics
-	url = https://github.com/bitfocus/companion-module-TestGraphics.git
+[submodule "lib/module/testgraphics"]
+	path = lib/module/testgraphics
+	url = https://github.com/bitfocus/companion-module-testgraphics.git
